@@ -27,3 +27,10 @@ Study Project
 5. Сделать возможность посмотреть данные по каждому месяцу.
 
 6. Написать сопроводительное письмо, где кратко указать логику отчета, зачем он нужен, описать его функциональность и показать пример работы с ним.
+
+# Результат аналитики
+https://github.com/Andreyb2/SF-Project-02-Financial-Analytics/blob/main/Case2_Andrey_Bryatkov_Financial_Analytics.pbix
+https://github.com/Andreyb2/SF-Project-02-Financial-Analytics/blob/main/Case2_Andrey_Bryatkov_Financial_Analytics.pdf
+
+# Публикация в Microsoft Power BI Service
+Доступно для учетных записей внутри организации SkillFactory https://app.powerbi.com/links/RxdNXTtVcX?ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d&pbi_source=linkShare
